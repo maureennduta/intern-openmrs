@@ -1,0 +1,16 @@
+@import "carbon-components/scss/globals/grid/grid";
+#loginform {
+  margin-top: 10%;
+  background-color: rgb(255, 253, 251);
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  height: 50vh;
+  border-radius: 1px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+  padding: 1rem;
+}
+#name{
+  margin-bottom: 2rem;
+}
